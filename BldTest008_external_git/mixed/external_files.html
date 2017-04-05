@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="stylesheet" href="style.css" type="text/css" media="all">
+<title> Ext Files : from France Lab Wiki</title>
+</head>
+<body>
+<div >
+	<h1>External files </h1>
+	<h2> Introduction </h2>
+	External files describe files located outside the build server. They can be used for several purposes: <ul>
+	<li> input files for a production build: <ul>
+	<li> source files (dita, ditamaps, images, etc.)
+	</li> <li> external files to be included in a produced documentation (for example API)
+	</li></ul> 
+	</li> <li> output location (and if necessary output file) for a delivery build
+	</li></ul> 
+	<p></p>
+	Input external files are copied to their destination without any transformation. 
+	They are usually located on remote file systems or repositories (SVN, nexus, RTC), but can also be located in the local RTC repository.
+	They must be gathered in a single directory: all the files in the source directory will be copied to the destination.
+	All the filenames are relative to the load directory, defined in the Jazz Source Control tab of the build definition.
+	<p></p>
+	For output external files, the command can be only <code>copy</code> or <code>ftp</code>.
+	<p></p>
+
+</div>
+
+</body></html>
