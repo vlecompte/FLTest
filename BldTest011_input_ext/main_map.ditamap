@@ -13,13 +13,6 @@ xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
 <topicref format="dita" href="topics/main.dita" type="topic">
     <topicref format="dita" href="topics/intro.dita" type="topic" />
     
-	<topicref format="html" href="./Monitor/sitemap.htm" navtitle="monitor"
-		scope="peer" type="topic">
-	</topicref>
-	
-	<topicref format="html" href="./EventEmitter/sitemap.htm" navtitle="eventemitter"
-		scope="peer" type="topic">
-	</topicref>
 	
 </topicref>
 
