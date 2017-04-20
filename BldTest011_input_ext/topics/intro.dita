@@ -9,7 +9,7 @@ xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
 <shortdesc>
 	<keyword conref="../local_variables.dita#var/moduleName" /> :
 	<keyword conref="../local_variables.dita#var/moduleDesc" />
-	<keyword conref="../local_variables.dita#var/sourceLocation" />
+	Source location : <keyword conref="../local_variables.dita#var/sourceLocation" />
 </shortdesc>
 <body>
 <section>
