@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN"
+ "../../../../catalog/IBM--DTD-DITA-IBM-Reference--EN.dtd">
+<?Pub Sty _display FontColor="red"?>
+<reference id="var" xml:lang="en-us"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title><tm tmtype="reg" trademark="IBM">IBM</tm> Test1 variables</title>
+<refbody>
+<section>		
+<title><tm tmtype="reg" trademark="IBM">IBM</tm> FL Test Build Test Case ID</title> 			 			
+<p><keyword id="testCaseID">BldTest011</keyword></p>
+<p><keyword id="moduleName">Module_11 Input_external</keyword></p>
+<p><keyword id="moduleDesc">This module tests the "input.external" functionality , it includes additional files into the build on the global level</keyword>
+</p>
+<p><keyword id="sourceLocation">"https://github.com/vlecompte/FLTest/BldTest011_input_ext"</keyword></p>
+</section>
+</refbody>
+</reference>

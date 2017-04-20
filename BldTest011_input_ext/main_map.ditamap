@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE map PUBLIC "-//IBM//DTD DITA IBM Map//EN"
+ "../../../catalog/IBM--DTD-DITA-IBM-Map--EN.dtd">
+<?Pub Sty _display FontColor="red"?>
+<map activity="plan learn" id="axMhV4Uv"
+operatingsystem="WIN solaris linux IBMi HP AIX" type="proddoc"
+xml:lang="en-us"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>France Lab Build System - <keyword conref="./local_variables.dita#var/moduleName" /> - <keyword conref="./local_variables.dita#var/testCaseID" /></title>
+<topicmeta></topicmeta>
+
+<topicref format="dita" href="topics/main.dita" type="topic">
+    <topicref format="dita" href="topics/intro.dita" type="topic" />
+    
+	<topicref format="html" href="./Monitor/sitemap.htm" navtitle="monitor"
+		scope="peer" type="topic">
+	</topicref>
+	
+	<topicref format="html" href="./EventEmitter/sitemap.htm" navtitle="eventemitter"
+		scope="peer" type="topic">
+	</topicref>
+	
+</topicref>
+
+</map>
+
